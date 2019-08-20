@@ -1,0 +1,59 @@
+body{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background: #696969;
+}
+h4{
+	color: black;
+	background: #FFA500;
+}
+.n{
+	display: flex;
+  justify-content:space-around;
+}
+.a{
+	width: 550px;
+	height: 350px
+}
+.z{
+	background: black;
+	color: white;
+	width: 750px;
+	height: 350px;
+}
+.i{
+	margin-top: 0;
+	padding: 7px;
+	color: black;
+	background: #FFA500;
+}
+.m,.g{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.b{
+	color: 	#FFD700;
+	margin-left: 50px;
+}
+.c{
+	display: flex;
+	justify-content:space-around;
+}
+.d{
+	background-color: white;
+	width: 300px;
+	height: 370px;
+
+}
+.e{
+	width: 100%;
+}
+.f{
+	margin: 0;
+	padding: 6px;
+}
+button{
+	background-color: yellow;
+	border: 3px solid black;
+	border-radius:5px 0 0 5px;
+	float: right;
+}
